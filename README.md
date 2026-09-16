@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · pe1LRMYz -->
-## Notification 1/2
-Round: Round 1
-To: yuanlu_1999@yahoo.com, pinkyrox46@yahoo.com
-At: 2026-09-16 15:45:09
-Id: pe1LRMYz
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: tricia@tosuna.com, mmartin@gatewayhealthplan.com
+At: 2026-09-16 15:45:17
+Id: E2e7MIvX
